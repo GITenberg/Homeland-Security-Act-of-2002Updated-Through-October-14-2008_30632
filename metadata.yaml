@@ -1,0 +1,35 @@
+_repo: Homeland-Security-Act-of-2002Updated-Through-October-14-2008_30632
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Congress. House. Committee on Homeland Security
+    gutenberg_agent_id: '34718'
+    url: http://www.gutenberg.org/2009/agents/34718
+  editor:
+    agent_name: Twinchek, Michael
+    gutenberg_agent_id: '34719'
+    url: http://www.gutenberg.org/2009/agents/34719
+description: ''
+gutenberg_issued: '2009-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National security -- Law and legislation -- United States'
+- !lcsh 'United States. Dept. of Homeland Security'
+- !lcsh 'United States. Homeland Security Act of 2002'
+- !lcsh 'Administrative agencies -- United States -- Reorganization'
+- !lcsh 'Terrorism -- United States -- Prevention'
+- !lcsh 'Emergency management -- United States'
+- !lcc 'KF'
+title: 'Homeland Security Act of 2002
+
+  Updated Through October 14, 2008'
+url: http://www.gutenberg.org/ebooks/30632
