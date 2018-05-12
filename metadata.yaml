@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '34719'
     url: http://www.gutenberg.org/2009/agents/34719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30632#Homeland-Security-Act-of-2002Updated-Through-October-14-2008
 gutenberg_issued: '2009-12-08'
 gutenberg_type: Text
 identifiers:
